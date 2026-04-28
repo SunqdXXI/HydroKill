@@ -29,3 +29,9 @@ pip install -r requirements.txt
 ### 6 — Run HydroKill
 
 python 1.py
+
+### 7 — Run web version
+
+python HYDROapp.py
+
+Then open http://localhost:5000 in your browser.
